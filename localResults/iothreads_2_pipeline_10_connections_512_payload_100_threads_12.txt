@@ -1,0 +1,252 @@
+SET: 0.00SET: 0.00SET: 55000.00SET: 55000.00SET: 55000.00SET: 53333.33SET: 53333.33SET: 53333.33SET: 53333.33SET: 53333.33SET: 40000.00SET: 40000.00SET: 964920.62SET: 964920.62SET: 964920.62SET: 964920.62SET: 964920.62SET: 961964.44SET: 962636.38SET: 963083.06SET: 963636.38SET: 963917.00SET: 977358.25SET: 977480.31SET: 985318.75SET: 985504.06SET: 985976.12SET: 986304.81SET: 986912.38SET: 989701.75SET: 989721.62SET: 989733.56SET: 989940.31SET: 991013.88SET: 990337.31SET: 990337.31SET: 996063.88SET: 996063.88SET: 996063.88SET: 996063.88SET: 996063.88SET: 995285.50SET: 995749.00SET: 995834.00SET: 996069.00SET: 996099.56SET: 1000212.19SET: 1000212.19====== SET ======
+  1000420 requests completed in 1.00 seconds
+  512 parallel clients
+  100 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: yes
+  threads: 12
+
+0.00% <= 1.2 milliseconds
+0.00% <= 1.3 milliseconds
+0.00% <= 1.4 milliseconds
+0.00% <= 1.5 milliseconds
+0.01% <= 1.6 milliseconds
+0.01% <= 1.7 milliseconds
+0.01% <= 1.8 milliseconds
+0.01% <= 1.9 milliseconds
+0.02% <= 4 milliseconds
+50.26% <= 5 milliseconds
+98.75% <= 6 milliseconds
+99.47% <= 7 milliseconds
+99.52% <= 8 milliseconds
+99.62% <= 9 milliseconds
+99.86% <= 10 milliseconds
+99.96% <= 11 milliseconds
+100.00% <= 11 milliseconds
+1002424.81 requests per second
+
+GET: 0.00GET: 13000.00GET: 30000.00GET: 30000.00GET: 46666.67GET: 31666.67GET: 56666.67GET: 56666.67GET: 60000.00GET: 45000.00GET: 45000.00GET: 45000.00GET: 886111.12GET: 886468.25GET: 887928.88GET: 889525.75GET: 889762.88GET: 890067.25GET: 890276.69GET: 891055.38GET: 896233.25GET: 899015.75GET: 899015.75GET: 899015.75GET: 957012.00GET: 957012.00GET: 955109.31GET: 955109.31GET: 955109.31GET: 955109.31GET: 955109.31GET: 955109.31GET: 955109.31GET: 953214.25GET: 953214.25GET: 953214.25GET: 997101.12GET: 997101.12GET: 995776.88GET: 995776.88GET: 995776.88GET: 995776.88GET: 995776.88GET: 995776.88GET: 995776.88GET: 994456.25GET: 994456.25GET: 994456.25====== GET ======
+  1000460 requests completed in 0.97 seconds
+  512 parallel clients
+  100 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: yes
+  threads: 12
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+0.02% <= 3 milliseconds
+1.90% <= 4 milliseconds
+74.96% <= 5 milliseconds
+96.72% <= 6 milliseconds
+97.16% <= 7 milliseconds
+97.73% <= 8 milliseconds
+98.14% <= 9 milliseconds
+98.70% <= 10 milliseconds
+99.11% <= 11 milliseconds
+99.28% <= 12 milliseconds
+99.47% <= 13 milliseconds
+99.49% <= 17 milliseconds
+99.55% <= 18 milliseconds
+99.71% <= 19 milliseconds
+99.73% <= 20 milliseconds
+99.76% <= 21 milliseconds
+99.79% <= 22 milliseconds
+99.84% <= 23 milliseconds
+99.90% <= 24 milliseconds
+99.95% <= 25 milliseconds
+99.96% <= 27 milliseconds
+99.97% <= 28 milliseconds
+100.00% <= 28 milliseconds
+1028222.00 requests per second
+
+HSET: 0.00HSET: 0.00HSET: 45000.00HSET: 45000.00HSET: 45000.00HSET: 65000.00HSET: 80000.00HSET: 80000.00HSET: 80000.00HSET: 53333.33HSET: 40000.00HSET: 40000.00HSET: 919402.44HSET: 919402.44HSET: 915753.94HSET: 916111.12HSET: 917920.62HSET: 917976.19HSET: 919408.69HSET: 919603.19HSET: 919644.31HSET: 920909.12HSET: 928700.75HSET: 928700.75HSET: 945908.19HSET: 945908.19HSET: 944023.94HSET: 944023.94HSET: 944023.94HSET: 944023.94HSET: 944023.94HSET: 944023.94HSET: 942147.06HSET: 942147.06HSET: 940277.75HSET: 940535.69HSET: 953648.50HSET: 953648.50HSET: 953537.25HSET: 953710.12HSET: 953715.44HSET: 954988.06HSET: 955042.56HSET: 955210.12HSET: 957636.12HSET: 956366.06HSET: 956366.06HSET: 955099.38HSET: 954795.19HSET: 954825.12HSET: 954440.12HSET: 954501.00HSET: 954511.00HSET: 954570.88HSET: 954886.25HSET: 956157.69HSET: 957996.00HSET: 957041.88HSET: 957041.88HSET: 956089.56====== HSET ======
+  1000200 requests completed in 1.05 seconds
+  512 parallel clients
+  100 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: yes
+  threads: 12
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+0.02% <= 4 milliseconds
+21.06% <= 5 milliseconds
+94.01% <= 6 milliseconds
+98.64% <= 7 milliseconds
+98.74% <= 8 milliseconds
+98.88% <= 9 milliseconds
+99.14% <= 10 milliseconds
+99.83% <= 11 milliseconds
+99.96% <= 12 milliseconds
+99.97% <= 13 milliseconds
+100.00% <= 13 milliseconds
+953479.50 requests per second
+
+LPUSH (needed to benchmark LRANGE): 0.00LPUSH (needed to benchmark LRANGE): 0.00LPUSH (needed to benchmark LRANGE): 6666.67LPUSH (needed to benchmark LRANGE): 6666.67LPUSH (needed to benchmark LRANGE): 6666.67LPUSH (needed to benchmark LRANGE): 6666.67LPUSH (needed to benchmark LRANGE): 6666.67LPUSH (needed to benchmark LRANGE): 6666.67LPUSH (needed to benchmark LRANGE): 6666.67LPUSH (needed to benchmark LRANGE): 42500.00LPUSH (needed to benchmark LRANGE): 97499.99LPUSH (needed to benchmark LRANGE): 102499.99LPUSH (needed to benchmark LRANGE): 722063.50LPUSH (needed to benchmark LRANGE): 722063.50LPUSH (needed to benchmark LRANGE): 719466.44LPUSH (needed to benchmark LRANGE): 720233.25LPUSH (needed to benchmark LRANGE): 721960.50LPUSH (needed to benchmark LRANGE): 722794.50LPUSH (needed to benchmark LRANGE): 723004.00LPUSH (needed to benchmark LRANGE): 724739.12LPUSH (needed to benchmark LRANGE): 725885.38LPUSH (needed to benchmark LRANGE): 734291.31LPUSH (needed to benchmark LRANGE): 735787.38LPUSH (needed to benchmark LRANGE): 736417.31LPUSH (needed to benchmark LRANGE): 777410.38LPUSH (needed to benchmark LRANGE): 777410.38LPUSH (needed to benchmark LRANGE): 777594.38LPUSH (needed to benchmark LRANGE): 777654.06LPUSH (needed to benchmark LRANGE): 777673.94LPUSH (needed to benchmark LRANGE): 777779.31LPUSH (needed to benchmark LRANGE): 778031.75LPUSH (needed to benchmark LRANGE): 779077.50LPUSH (needed to benchmark LRANGE): 779129.19LPUSH (needed to benchmark LRANGE): 783412.69LPUSH (needed to benchmark LRANGE): 784007.94LPUSH (needed to benchmark LRANGE): 784444.44LPUSH (needed to benchmark LRANGE): 802446.81LPUSH (needed to benchmark LRANGE): 802446.81LPUSH (needed to benchmark LRANGE): 801381.12LPUSH (needed to benchmark LRANGE): 801381.12LPUSH (needed to benchmark LRANGE): 801381.12LPUSH (needed to benchmark LRANGE): 801381.12LPUSH (needed to benchmark LRANGE): 800318.31LPUSH (needed to benchmark LRANGE): 800318.31LPUSH (needed to benchmark LRANGE): 800318.31LPUSH (needed to benchmark LRANGE): 800318.31LPUSH (needed to benchmark LRANGE): 799258.31LPUSH (needed to benchmark LRANGE): 799258.31LPUSH (needed to benchmark LRANGE): 810299.44LPUSH (needed to benchmark LRANGE): 810299.44LPUSH (needed to benchmark LRANGE): 810049.81LPUSH (needed to benchmark LRANGE): 810251.25LPUSH (needed to benchmark LRANGE): 810293.12LPUSH (needed to benchmark LRANGE): 810879.38LPUSH (needed to benchmark LRANGE): 812526.94LPUSH (needed to benchmark LRANGE): 812532.94LPUSH (needed to benchmark LRANGE): 813187.31LPUSH (needed to benchmark LRANGE): 813784.88LPUSH (needed to benchmark LRANGE): 812975.12LPUSH (needed to benchmark LRANGE): 812975.12====== LPUSH (needed to benchmark LRANGE) ======
+  1000420 requests completed in 1.23 seconds
+  512 parallel clients
+  100 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: yes
+  threads: 12
+
+0.00% <= 1 milliseconds
+0.00% <= 2 milliseconds
+0.02% <= 3 milliseconds
+0.04% <= 4 milliseconds
+0.12% <= 5 milliseconds
+65.71% <= 6 milliseconds
+92.26% <= 7 milliseconds
+97.63% <= 8 milliseconds
+97.96% <= 9 milliseconds
+98.19% <= 10 milliseconds
+98.26% <= 11 milliseconds
+98.70% <= 12 milliseconds
+99.04% <= 13 milliseconds
+99.18% <= 14 milliseconds
+99.31% <= 15 milliseconds
+99.47% <= 16 milliseconds
+99.49% <= 18 milliseconds
+99.51% <= 19 milliseconds
+99.55% <= 20 milliseconds
+99.61% <= 21 milliseconds
+99.66% <= 22 milliseconds
+99.72% <= 23 milliseconds
+99.76% <= 24 milliseconds
+99.84% <= 25 milliseconds
+99.89% <= 26 milliseconds
+99.95% <= 27 milliseconds
+99.98% <= 37 milliseconds
+100.00% <= 37 milliseconds
+816669.38 requests per second
+
+LRANGE_100 (first 100 elements): 0.00LRANGE_100 (first 100 elements): 0.00LRANGE_100 (first 100 elements): 0.00LRANGE_100 (first 100 elements): 500.00LRANGE_100 (first 100 elements): 2000.00LRANGE_100 (first 100 elements): 2666.67LRANGE_100 (first 100 elements): 2666.67LRANGE_100 (first 100 elements): 4333.33LRANGE_100 (first 100 elements): 4333.33LRANGE_100 (first 100 elements): 5000.00LRANGE_100 (first 100 elements): 5000.00LRANGE_100 (first 100 elements): 5000.00LRANGE_100 (first 100 elements): 59829.36LRANGE_100 (first 100 elements): 59829.36LRANGE_100 (first 100 elements): 59829.36LRANGE_100 (first 100 elements): 59829.36LRANGE_100 (first 100 elements): 59829.36LRANGE_100 (first 100 elements): 59592.89LRANGE_100 (first 100 elements): 59592.89LRANGE_100 (first 100 elements): 59592.89LRANGE_100 (first 100 elements): 59592.89LRANGE_100 (first 100 elements): 59358.27LRANGE_100 (first 100 elements): 59358.27LRANGE_100 (first 100 elements): 59125.49LRANGE_100 (first 100 elements): 70830.68LRANGE_100 (first 100 elements): 70830.68LRANGE_100 (first 100 elements): 70830.68LRANGE_100 (first 100 elements): 70830.68LRANGE_100 (first 100 elements): 70689.86LRANGE_100 (first 100 elements): 70689.86LRANGE_100 (first 100 elements): 70689.86LRANGE_100 (first 100 elements): 70689.86LRANGE_100 (first 100 elements): 70689.86LRANGE_100 (first 100 elements): 70549.60LRANGE_100 (first 100 elements): 70549.60LRANGE_100 (first 100 elements): 70409.90LRANGE_100 (first 100 elements): 74517.29LRANGE_100 (first 100 elements): 74517.29LRANGE_100 (first 100 elements): 74517.29LRANGE_100 (first 100 elements): 74418.33LRANGE_100 (first 100 elements): 74418.33LRANGE_100 (first 100 elements): 74418.33LRANGE_100 (first 100 elements): 74418.33LRANGE_100 (first 100 elements): 74418.33LRANGE_100 (first 100 elements): 74418.33LRANGE_100 (first 100 elements): 74319.62LRANGE_100 (first 100 elements): 74319.62LRANGE_100 (first 100 elements): 74221.20LRANGE_100 (first 100 elements): 75259.48LRANGE_100 (first 100 elements): 75259.48LRANGE_100 (first 100 elements): 75259.48LRANGE_100 (first 100 elements): 75184.45LRANGE_100 (first 100 elements): 75184.45LRANGE_100 (first 100 elements): 75184.45LRANGE_100 (first 100 elements): 75184.45LRANGE_100 (first 100 elements): 75184.45LRANGE_100 (first 100 elements): 75184.45LRANGE_100 (first 100 elements): 75109.56LRANGE_100 (first 100 elements): 75109.56LRANGE_100 (first 100 elements): 75034.83LRANGE_100 (first 100 elements): 74082.27LRANGE_100 (first 100 elements): 74083.87LRANGE_100 (first 100 elements): 74269.17LRANGE_100 (first 100 elements): 74243.41LRANGE_100 (first 100 elements): 74244.21LRANGE_100 (first 100 elements): 74246.61LRANGE_100 (first 100 elements): 74249.00LRANGE_100 (first 100 elements): 74257.78LRANGE_100 (first 100 elements): 74280.12LRANGE_100 (first 100 elements): 74541.47LRANGE_100 (first 100 elements): 74561.41LRANGE_100 (first 100 elements): 74890.84LRANGE_100 (first 100 elements): 74804.93LRANGE_100 (first 100 elements): 74804.93LRANGE_100 (first 100 elements): 74804.93LRANGE_100 (first 100 elements): 74765.80LRANGE_100 (first 100 elements): 74766.47LRANGE_100 (first 100 elements): 74779.77LRANGE_100 (first 100 elements): 74795.08LRANGE_100 (first 100 elements): 74819.03LRANGE_100 (first 100 elements): 74833.66LRANGE_100 (first 100 elements): 74827.13LRANGE_100 (first 100 elements): 74829.79LRANGE_100 (first 100 elements): 74947.51LRANGE_100 (first 100 elements): 75820.20LRANGE_100 (first 100 elements): 75820.20LRANGE_100 (first 100 elements): 75820.20LRANGE_100 (first 100 elements): 75776.95LRANGE_100 (first 100 elements): 75776.95LRANGE_100 (first 100 elements): 75776.95LRANGE_100 (first 100 elements): 75776.95LRANGE_100 (first 100 elements): 75776.95LRANGE_100 (first 100 elements): 75776.95LRANGE_100 (first 100 elements): 75733.75LRANGE_100 (first 100 elements): 75733.75LRANGE_100 (first 100 elements): 75690.60LRANGE_100 (first 100 elements): 76028.97LRANGE_100 (first 100 elements): 76028.97LRANGE_100 (first 100 elements): 76029.47LRANGE_100 (first 100 elements): 76049.42LRANGE_100 (first 100 elements): 76055.91LRANGE_100 (first 100 elements): 76064.90LRANGE_100 (first 100 elements): 76066.90LRANGE_100 (first 100 elements): 76068.40LRANGE_100 (first 100 elements): 76084.38LRANGE_100 (first 100 elements): 76142.72LRANGE_100 (first 100 elements): 76167.08LRANGE_100 (first 100 elements): 76190.02LRANGE_100 (first 100 elements): 76682.95LRANGE_100 (first 100 elements): 76682.95LRANGE_100 (first 100 elements): 76648.91LRANGE_100 (first 100 elements): 76648.91LRANGE_100 (first 100 elements): 76648.91LRANGE_100 (first 100 elements): 76648.91LRANGE_100 (first 100 elements): 76648.91LRANGE_100 (first 100 elements): 76659.12LRANGE_100 (first 100 elements): 76667.11LRANGE_100 (first 100 elements): 76688.55LRANGE_100 (first 100 elements): 76743.68LRANGE_100 (first 100 elements): 76747.23LRANGE_100 (first 100 elements): 77206.23LRANGE_100 (first 100 elements): 77206.23LRANGE_100 (first 100 elements): 77175.39LRANGE_100 (first 100 elements): 77175.39LRANGE_100 (first 100 elements): 77175.39LRANGE_100 (first 100 elements): 77175.39LRANGE_100 (first 100 elements): 77175.39LRANGE_100 (first 100 elements): 77175.39LRANGE_100 (first 100 elements): 77144.57LRANGE_100 (first 100 elements): 77144.57LRANGE_100 (first 100 elements): 77083.00LRANGE_100 (first 100 elements): 77083.00LRANGE_100 (first 100 elements): 77634.45LRANGE_100 (first 100 elements): 77634.45LRANGE_100 (first 100 elements): 77606.25LRANGE_100 (first 100 elements): 77606.25LRANGE_100 (first 100 elements): 77606.25LRANGE_100 (first 100 elements): 77606.25LRANGE_100 (first 100 elements): 77606.25LRANGE_100 (first 100 elements): 77578.07LRANGE_100 (first 100 elements): 77578.07LRANGE_100 (first 100 elements): 77549.91LRANGE_100 (first 100 elements): 77521.77LRANGE_100 (first 100 elements): 77521.77LRANGE_100 (first 100 elements): 77816.12LRANGE_100 (first 100 elements): 77819.45LRANGE_100 (first 100 elements): 77841.49LRANGE_100 (first 100 elements): 77842.16LRANGE_100 (first 100 elements): 77844.49LRANGE_100 (first 100 elements): 77845.16LRANGE_100 (first 100 elements): 77884.12LRANGE_100 (first 100 elements): 77868.18LRANGE_100 (first 100 elements): 77871.84LRANGE_100 (first 100 elements): 77888.85LRANGE_100 (first 100 elements): 77887.55LRANGE_100 (first 100 elements): 77887.55LRANGE_100 (first 100 elements): 77951.10LRANGE_100 (first 100 elements): 77954.48LRANGE_100 (first 100 elements): 77952.66LRANGE_100 (first 100 elements): 77953.27LRANGE_100 (first 100 elements): 77967.11LRANGE_100 (first 100 elements): 77983.40LRANGE_100 (first 100 elements): 77988.32LRANGE_100 (first 100 elements): 77987.09LRANGE_100 (first 100 elements): 77991.09LRANGE_100 (first 100 elements): 78050.69LRANGE_100 (first 100 elements): 78053.44LRANGE_100 (first 100 elements): 78067.57LRANGE_100 (first 100 elements): 77484.29LRANGE_100 (first 100 elements): 77487.15LRANGE_100 (first 100 elements): 77479.88LRANGE_100 (first 100 elements): 77483.30LRANGE_100 (first 100 elements): 77484.73LRANGE_100 (first 100 elements): 77507.85LRANGE_100 (first 100 elements): 77576.65LRANGE_100 (first 100 elements): 77580.20LRANGE_100 (first 100 elements): 77582.48LRANGE_100 (first 100 elements): 77713.55LRANGE_100 (first 100 elements): 77742.73LRANGE_100 (first 100 elements): 77761.55LRANGE_100 (first 100 elements): 77707.09LRANGE_100 (first 100 elements): 77686.38LRANGE_100 (first 100 elements): 77686.38LRANGE_100 (first 100 elements): 77686.38LRANGE_100 (first 100 elements): 77686.38LRANGE_100 (first 100 elements): 77665.69LRANGE_100 (first 100 elements): 77665.69LRANGE_100 (first 100 elements): 77665.69LRANGE_100 (first 100 elements): 77696.06LRANGE_100 (first 100 elements): 77682.02LRANGE_100 (first 100 elements): 77706.60LRANGE_100 (first 100 elements): 77718.85LRANGE_100 (first 100 elements): 77970.27LRANGE_100 (first 100 elements): 77950.79LRANGE_100 (first 100 elements): 77950.79LRANGE_100 (first 100 elements): 77950.79LRANGE_100 (first 100 elements): 77950.79LRANGE_100 (first 100 elements): 77931.31LRANGE_100 (first 100 elements): 77931.31LRANGE_100 (first 100 elements): 77931.31LRANGE_100 (first 100 elements): 77931.31LRANGE_100 (first 100 elements): 77911.86LRANGE_100 (first 100 elements): 77892.41LRANGE_100 (first 100 elements): 77892.41LRANGE_100 (first 100 elements): 78202.49LRANGE_100 (first 100 elements): 78184.11LRANGE_100 (first 100 elements): 78184.11LRANGE_100 (first 100 elements): 78184.11LRANGE_100 (first 100 elements): 78184.11LRANGE_100 (first 100 elements): 78165.73LRANGE_100 (first 100 elements): 78165.73LRANGE_100 (first 100 elements): 78165.73LRANGE_100 (first 100 elements): 78165.73LRANGE_100 (first 100 elements): 78147.35LRANGE_100 (first 100 elements): 78128.99LRANGE_100 (first 100 elements): 78128.99LRANGE_100 (first 100 elements): 78408.93LRANGE_100 (first 100 elements): 78391.52LRANGE_100 (first 100 elements): 78391.52LRANGE_100 (first 100 elements): 78391.52LRANGE_100 (first 100 elements): 78391.52LRANGE_100 (first 100 elements): 78374.11LRANGE_100 (first 100 elements): 78374.11LRANGE_100 (first 100 elements): 78374.11LRANGE_100 (first 100 elements): 78374.11LRANGE_100 (first 100 elements): 78356.71LRANGE_100 (first 100 elements): 78339.33LRANGE_100 (first 100 elements): 78339.33LRANGE_100 (first 100 elements): 78593.65LRANGE_100 (first 100 elements): 78577.11LRANGE_100 (first 100 elements): 78577.11LRANGE_100 (first 100 elements): 78577.11LRANGE_100 (first 100 elements): 78577.11LRANGE_100 (first 100 elements): 78560.58LRANGE_100 (first 100 elements): 78560.58LRANGE_100 (first 100 elements): 78560.58LRANGE_100 (first 100 elements): 78560.58LRANGE_100 (first 100 elements): 78544.05LRANGE_100 (first 100 elements): 78527.55LRANGE_100 (first 100 elements): 78527.55LRANGE_100 (first 100 elements): 78759.90LRANGE_100 (first 100 elements): 78744.16LRANGE_100 (first 100 elements): 78744.16LRANGE_100 (first 100 elements): 78744.16LRANGE_100 (first 100 elements): 78744.16LRANGE_100 (first 100 elements): 78728.41LRANGE_100 (first 100 elements): 78728.41LRANGE_100 (first 100 elements): 78728.41LRANGE_100 (first 100 elements): 78712.69LRANGE_100 (first 100 elements): 78712.69LRANGE_100 (first 100 elements): 78696.96LRANGE_100 (first 100 elements): 78696.96LRANGE_100 (first 100 elements): 78910.32LRANGE_100 (first 100 elements): 78895.30LRANGE_100 (first 100 elements): 78895.30LRANGE_100 (first 100 elements): 78895.30LRANGE_100 (first 100 elements): 78880.28LRANGE_100 (first 100 elements): 78880.28LRANGE_100 (first 100 elements): 78880.28LRANGE_100 (first 100 elements): 78865.27LRANGE_100 (first 100 elements): 78865.27LRANGE_100 (first 100 elements): 78865.27LRANGE_100 (first 100 elements): 78850.27LRANGE_100 (first 100 elements): 78835.27LRANGE_100 (first 100 elements): 79047.08LRANGE_100 (first 100 elements): 79032.71LRANGE_100 (first 100 elements): 79032.71LRANGE_100 (first 100 elements): 79032.71LRANGE_100 (first 100 elements): 79018.34LRANGE_100 (first 100 elements): 79018.34LRANGE_100 (first 100 elements): 79018.34LRANGE_100 (first 100 elements): 79003.99LRANGE_100 (first 100 elements): 79003.99LRANGE_100 (first 100 elements): 78989.65LRANGE_100 (first 100 elements): 78989.65LRANGE_100 (first 100 elements): 78975.30LRANGE_100 (first 100 elements): 79158.18LRANGE_100 (first 100 elements): 79158.18LRANGE_100 (first 100 elements): 79158.18LRANGE_100 (first 100 elements): 79158.18LRANGE_100 (first 100 elements): 79144.42LRANGE_100 (first 100 elements): 79144.42LRANGE_100 (first 100 elements): 79144.42LRANGE_100 (first 100 elements): 79130.66LRANGE_100 (first 100 elements): 79116.92LRANGE_100 (first 100 elements): 79116.92LRANGE_100 (first 100 elements): 79116.92LRANGE_100 (first 100 elements): 79089.45LRANGE_100 (first 100 elements): 79270.03LRANGE_100 (first 100 elements): 79270.20LRANGE_100 (first 100 elements): 79271.87LRANGE_100 (first 100 elements): 79273.20LRANGE_100 (first 100 elements): 79259.99LRANGE_100 (first 100 elements): 79259.99LRANGE_100 (first 100 elements): 79259.99LRANGE_100 (first 100 elements): 79246.79LRANGE_100 (first 100 elements): 79233.60LRANGE_100 (first 100 elements): 79233.60LRANGE_100 (first 100 elements): 79233.60LRANGE_100 (first 100 elements): 79207.23LRANGE_100 (first 100 elements): 79201.98LRANGE_100 (first 100 elements): 79201.98LRANGE_100 (first 100 elements): 79201.98LRANGE_100 (first 100 elements): 79189.32LRANGE_100 (first 100 elements): 79194.75LRANGE_100 (first 100 elements): 79195.07LRANGE_100 (first 100 elements): 79195.07LRANGE_100 (first 100 elements): 79214.23LRANGE_100 (first 100 elements): 79242.33LRANGE_100 (first 100 elements): 79243.12LRANGE_100 (first 100 elements): 79260.35LRANGE_100 (first 100 elements): 79283.80LRANGE_100 (first 100 elements): 79306.48LRANGE_100 (first 100 elements): 79306.48LRANGE_100 (first 100 elements): 79306.48LRANGE_100 (first 100 elements): 79294.28LRANGE_100 (first 100 elements): 79294.28LRANGE_100 (first 100 elements): 79294.28LRANGE_100 (first 100 elements): 79282.09LRANGE_100 (first 100 elements): 79269.91LRANGE_100 (first 100 elements): 79269.91LRANGE_100 (first 100 elements): 79269.91LRANGE_100 (first 100 elements): 79258.03LRANGE_100 (first 100 elements): 79251.38LRANGE_100 (first 100 elements): 79388.12LRANGE_100 (first 100 elements): 79388.57LRANGE_100 (first 100 elements): 79403.23LRANGE_100 (first 100 elements): 79391.47LRANGE_100 (first 100 elements): 79379.72LRANGE_100 (first 100 elements): 79379.72LRANGE_100 (first 100 elements): 79379.72LRANGE_100 (first 100 elements): 79367.97LRANGE_100 (first 100 elements): 79367.97LRANGE_100 (first 100 elements): 79367.97LRANGE_100 (first 100 elements): 79356.23LRANGE_100 (first 100 elements): 79344.48LRANGE_100 (first 100 elements): 79372.98LRANGE_100 (first 100 elements): 79373.27LRANGE_100 (first 100 elements): 79374.12LRANGE_100 (first 100 elements): 79378.78LRANGE_100 (first 100 elements): 79387.01LRANGE_100 (first 100 elements): 79387.44LRANGE_100 (first 100 elements): 79388.29LRANGE_100 (first 100 elements): 79396.52LRANGE_100 (first 100 elements): 79398.80LRANGE_100 (first 100 elements): 79405.80LRANGE_100 (first 100 elements): 79406.88LRANGE_100 (first 100 elements): 79411.67LRANGE_100 (first 100 elements): 79423.27LRANGE_100 (first 100 elements): 79423.27LRANGE_100 (first 100 elements): 79423.27LRANGE_100 (first 100 elements): 79412.32LRANGE_100 (first 100 elements): 79405.38LRANGE_100 (first 100 elements): 79414.34LRANGE_100 (first 100 elements): 79419.44LRANGE_100 (first 100 elements): 79416.20LRANGE_100 (first 100 elements): 79418.27LRANGE_100 (first 100 elements): 79429.16LRANGE_100 (first 100 elements): 79432.96LRANGE_100 (first 100 elements): 79445.30LRANGE_100 (first 100 elements): 79268.83LRANGE_100 (first 100 elements): 79270.03LRANGE_100 (first 100 elements): 79279.89LRANGE_100 (first 100 elements): 79298.38LRANGE_100 (first 100 elements): 79330.58LRANGE_100 (first 100 elements): 79330.98LRANGE_100 (first 100 elements): 79340.57LRANGE_100 (first 100 elements): 79362.24LRANGE_100 (first 100 elements): 79363.04LRANGE_100 (first 100 elements): 79377.43LRANGE_100 (first 100 elements): 79398.30LRANGE_100 (first 100 elements): 79424.09LRANGE_100 (first 100 elements): 79272.54LRANGE_100 (first 100 elements): 79272.67LRANGE_100 (first 100 elements): 79298.73LRANGE_100 (first 100 elements): 79309.00LRANGE_100 (first 100 elements): 79335.91LRANGE_100 (first 100 elements): 79338.36LRANGE_100 (first 100 elements): 79345.33LRANGE_100 (first 100 elements): 79369.65LRANGE_100 (first 100 elements): 79369.65LRANGE_100 (first 100 elements): 79389.12LRANGE_100 (first 100 elements): 79418.08LRANGE_100 (first 100 elements): 79443.93LRANGE_100 (first 100 elements): 79294.89LRANGE_100 (first 100 elements): 79294.89LRANGE_100 (first 100 elements): 79284.98LRANGE_100 (first 100 elements): 79284.98LRANGE_100 (first 100 elements): 79275.08LRANGE_100 (first 100 elements): 79275.08LRANGE_100 (first 100 elements): 79265.18LRANGE_100 (first 100 elements): 79265.18LRANGE_100 (first 100 elements): 79265.18LRANGE_100 (first 100 elements): 79265.18LRANGE_100 (first 100 elements): 79255.27LRANGE_100 (first 100 elements): 79246.88LRANGE_100 (first 100 elements): 79374.41LRANGE_100 (first 100 elements): 79364.80LRANGE_100 (first 100 elements): 79364.80LRANGE_100 (first 100 elements): 79364.80LRANGE_100 (first 100 elements): 79355.18LRANGE_100 (first 100 elements): 79355.18LRANGE_100 (first 100 elements): 79345.57LRANGE_100 (first 100 elements): 79345.57LRANGE_100 (first 100 elements): 79345.57LRANGE_100 (first 100 elements): 79345.57LRANGE_100 (first 100 elements): 79335.96LRANGE_100 (first 100 elements): 79326.34LRANGE_100 (first 100 elements): 79449.25LRANGE_100 (first 100 elements): 79439.91LRANGE_100 (first 100 elements): 79439.91LRANGE_100 (first 100 elements): 79430.57LRANGE_100 (first 100 elements): 79430.57LRANGE_100 (first 100 elements): 79430.57LRANGE_100 (first 100 elements): 79421.23LRANGE_100 (first 100 elements): 79421.23LRANGE_100 (first 100 elements): 79421.23LRANGE_100 (first 100 elements): 79411.90LRANGE_100 (first 100 elements): 79411.90LRANGE_100 (first 100 elements): 79402.56LRANGE_100 (first 100 elements): 79519.82LRANGE_100 (first 100 elements): 79510.74LRANGE_100 (first 100 elements): 79510.74LRANGE_100 (first 100 elements): 79501.66LRANGE_100 (first 100 elements): 79501.66LRANGE_100 (first 100 elements): 79501.66LRANGE_100 (first 100 elements): 79492.58LRANGE_100 (first 100 elements): 79492.58LRANGE_100 (first 100 elements): 79492.58LRANGE_100 (first 100 elements): 79483.50LRANGE_100 (first 100 elements): 79483.50LRANGE_100 (first 100 elements): 79474.42LRANGE_100 (first 100 elements): 79586.47LRANGE_100 (first 100 elements): 79577.63LRANGE_100 (first 100 elements): 79577.63LRANGE_100 (first 100 elements): 79568.80LRANGE_100 (first 100 elements): 79568.80LRANGE_100 (first 100 elements): 79559.96LRANGE_100 (first 100 elements): 79559.96LRANGE_100 (first 100 elements): 79559.96LRANGE_100 (first 100 elements): 79551.12LRANGE_100 (first 100 elements): 79551.12LRANGE_100 (first 100 elements): 79542.29LRANGE_100 (first 100 elements): 79542.29LRANGE_100 (first 100 elements): 79649.52LRANGE_100 (first 100 elements): 79640.91LRANGE_100 (first 100 elements): 79632.30LRANGE_100 (first 100 elements): 79632.30LRANGE_100 (first 100 elements): 79632.30LRANGE_100 (first 100 elements): 79623.71LRANGE_100 (first 100 elements): 79623.71LRANGE_100 (first 100 elements): 79623.71LRANGE_100 (first 100 elements): 79615.10LRANGE_100 (first 100 elements): 79615.10LRANGE_100 (first 100 elements): 79606.50LRANGE_100 (first 100 elements): 79606.50LRANGE_100 (first 100 elements): 79709.25LRANGE_100 (first 100 elements): 79700.87LRANGE_100 (first 100 elements): 79692.48LRANGE_100 (first 100 elements): 79692.48LRANGE_100 (first 100 elements): 79692.48LRANGE_100 (first 100 elements): 79684.10LRANGE_100 (first 100 elements): 79684.10LRANGE_100 (first 100 elements): 79684.10LRANGE_100 (first 100 elements): 79675.71LRANGE_100 (first 100 elements): 79667.33LRANGE_100 (first 100 elements): 79667.33LRANGE_100 (first 100 elements): 79658.95LRANGE_100 (first 100 elements): 79757.74LRANGE_100 (first 100 elements): 79757.74LRANGE_100 (first 100 elements): 79749.56LRANGE_100 (first 100 elements): 79749.56LRANGE_100 (first 100 elements): 79749.56LRANGE_100 (first 100 elements): 79741.39LRANGE_100 (first 100 elements): 79741.39LRANGE_100 (first 100 elements): 79741.39LRANGE_100 (first 100 elements): 79733.22LRANGE_100 (first 100 elements): 79725.05LRANGE_100 (first 100 elements): 79725.05LRANGE_100 (first 100 elements): 79716.88LRANGE_100 (first 100 elements): 79805.68LRANGE_100 (first 100 elements): 79802.20LRANGE_100 (first 100 elements): 79803.40LRANGE_100 (first 100 elements): 79803.80LRANGE_100 (first 100 elements): 79803.80LRANGE_100 (first 100 elements): 79795.83LRANGE_100 (first 100 elements): 79795.83LRANGE_100 (first 100 elements): 79795.83LRANGE_100 (first 100 elements): 79787.85LRANGE_100 (first 100 elements): 79771.91LRANGE_100 (first 100 elements): 79771.91LRANGE_100 (first 100 elements): 79771.91LRANGE_100 (first 100 elements): 79863.18LRANGE_100 (first 100 elements): 79855.39LRANGE_100 (first 100 elements): 79855.39LRANGE_100 (first 100 elements): 79855.39LRANGE_100 (first 100 elements): 79855.39LRANGE_100 (first 100 elements): 79847.60LRANGE_100 (first 100 elements): 79847.60LRANGE_100 (first 100 elements): 79839.82LRANGE_100 (first 100 elements): 79839.82LRANGE_100 (first 100 elements): 79824.25LRANGE_100 (first 100 elements): 79824.25LRANGE_100 (first 100 elements): 79824.25LRANGE_100 (first 100 elements): 79897.66LRANGE_100 (first 100 elements): 79898.71LRANGE_100 (first 100 elements): 79899.29LRANGE_100 (first 100 elements): 79899.57LRANGE_100 (first 100 elements): 79900.91LRANGE_100 (first 100 elements): 79896.92LRANGE_100 (first 100 elements): 79896.92LRANGE_100 (first 100 elements): 79889.31LRANGE_100 (first 100 elements): 79889.31LRANGE_100 (first 100 elements): 79874.11LRANGE_100 (first 100 elements): 79874.11LRANGE_100 (first 100 elements): 79874.11LRANGE_100 (first 100 elements): 79942.45LRANGE_100 (first 100 elements): 79942.63LRANGE_100 (first 100 elements): 79944.30LRANGE_100 (first 100 elements): 79944.86LRANGE_100 (first 100 elements): 79945.23LRANGE_100 (first 100 elements): 79941.99LRANGE_100 (first 100 elements): 79942.83LRANGE_100 (first 100 elements): 79936.51LRANGE_100 (first 100 elements): 79936.51LRANGE_100 (first 100 elements): 79921.65LRANGE_100 (first 100 elements): 79921.65LRANGE_100 (first 100 elements): 79921.65LRANGE_100 (first 100 elements): 79980.01LRANGE_100 (first 100 elements): 79980.46LRANGE_100 (first 100 elements): 79982.91LRANGE_100 (first 100 elements): 79988.09LRANGE_100 (first 100 elements): 79988.91LRANGE_100 (first 100 elements): 79982.74LRANGE_100 (first 100 elements): 79982.74LRANGE_100 (first 100 elements): 79979.83LRANGE_100 (first 100 elements): 79980.10LRANGE_100 (first 100 elements): 79967.03LRANGE_100 (first 100 elements): 79967.03LRANGE_100 (first 100 elements): 79967.03LRANGE_100 (first 100 elements): 80034.74LRANGE_100 (first 100 elements): 80035.36LRANGE_100 (first 100 elements): 80037.59LRANGE_100 (first 100 elements): 80038.20LRANGE_100 (first 100 elements): 80031.54LRANGE_100 (first 100 elements): 80031.72LRANGE_100 (first 100 elements): 80031.72LRANGE_100 (first 100 elements): 80024.61LRANGE_100 (first 100 elements): 80017.49LRANGE_100 (first 100 elements): 80010.39LRANGE_100 (first 100 elements): 80010.39LRANGE_100 (first 100 elements): 80010.39LRANGE_100 (first 100 elements): 80069.45LRANGE_100 (first 100 elements): 80072.92LRANGE_100 (first 100 elements): 80074.31LRANGE_100 (first 100 elements): 80075.79LRANGE_100 (first 100 elements): 80071.88LRANGE_100 (first 100 elements): 80072.31LRANGE_100 (first 100 elements): 80065.79LRANGE_100 (first 100 elements): 80058.83LRANGE_100 (first 100 elements): 80051.88LRANGE_100 (first 100 elements): 80072.75LRANGE_100 (first 100 elements): 80051.88LRANGE_100 (first 100 elements): 80051.88LRANGE_100 (first 100 elements): 80101.23LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80071.16LRANGE_100 (first 100 elements): 80064.36LRANGE_100 (first 100 elements): 80064.36LRANGE_100 (first 100 elements): 80064.14LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80017.48LRANGE_100 (first 100 elements): 80010.99LRANGE_100 (first 100 elements): 80012.91LRANGE_100 (first 100 elements): 80056.22LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80056.27LRANGE_100 (first 100 elements): 80049.75LRANGE_100 (first 100 elements): 80049.75====== LRANGE_100 (first 100 elements) ======
+  1001054 requests completed in 12.51 seconds
+  512 parallel clients
+  100 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: yes
+  threads: 12
+
+0.00% <= 1 milliseconds
+0.00% <= 24 milliseconds
+0.01% <= 25 milliseconds
+0.44% <= 26 milliseconds
+2.62% <= 27 milliseconds
+5.90% <= 28 milliseconds
+9.55% <= 29 milliseconds
+13.95% <= 30 milliseconds
+17.26% <= 31 milliseconds
+18.69% <= 32 milliseconds
+19.16% <= 33 milliseconds
+19.28% <= 34 milliseconds
+19.33% <= 35 milliseconds
+19.37% <= 36 milliseconds
+19.40% <= 37 milliseconds
+19.43% <= 38 milliseconds
+19.44% <= 39 milliseconds
+19.46% <= 40 milliseconds
+19.48% <= 41 milliseconds
+19.52% <= 42 milliseconds
+19.62% <= 43 milliseconds
+20.64% <= 44 milliseconds
+24.17% <= 45 milliseconds
+28.83% <= 46 milliseconds
+33.47% <= 47 milliseconds
+37.99% <= 48 milliseconds
+42.45% <= 49 milliseconds
+47.01% <= 50 milliseconds
+51.71% <= 51 milliseconds
+56.34% <= 52 milliseconds
+60.98% <= 53 milliseconds
+65.67% <= 54 milliseconds
+70.32% <= 55 milliseconds
+75.01% <= 56 milliseconds
+79.76% <= 57 milliseconds
+84.52% <= 58 milliseconds
+88.55% <= 59 milliseconds
+90.83% <= 60 milliseconds
+93.07% <= 61 milliseconds
+96.05% <= 62 milliseconds
+97.87% <= 63 milliseconds
+98.49% <= 64 milliseconds
+98.77% <= 65 milliseconds
+98.89% <= 66 milliseconds
+98.95% <= 67 milliseconds
+99.01% <= 68 milliseconds
+99.06% <= 69 milliseconds
+99.10% <= 70 milliseconds
+99.16% <= 71 milliseconds
+99.24% <= 72 milliseconds
+99.31% <= 73 milliseconds
+99.37% <= 74 milliseconds
+99.43% <= 75 milliseconds
+99.52% <= 76 milliseconds
+99.61% <= 77 milliseconds
+99.68% <= 78 milliseconds
+99.73% <= 79 milliseconds
+99.79% <= 80 milliseconds
+99.82% <= 81 milliseconds
+99.85% <= 82 milliseconds
+99.86% <= 83 milliseconds
+99.86% <= 96 milliseconds
+99.88% <= 97 milliseconds
+99.91% <= 98 milliseconds
+99.94% <= 99 milliseconds
+99.97% <= 100 milliseconds
+100.00% <= 101 milliseconds
+100.00% <= 101 milliseconds
+80052.30 requests per second
+
+MSET (10 keys): 0.00MSET (10 keys): 5000.00MSET (10 keys): 5000.00MSET (10 keys): 5000.00MSET (10 keys): 5000.00MSET (10 keys): 3333.33MSET (10 keys): 3333.33MSET (10 keys): 3333.33MSET (10 keys): 3333.33MSET (10 keys): 3333.33MSET (10 keys): 2500.00MSET (10 keys): 2500.00MSET (10 keys): 224246.03MSET (10 keys): 224246.03MSET (10 keys): 224246.03MSET (10 keys): 224246.03MSET (10 keys): 224246.03MSET (10 keys): 225928.86MSET (10 keys): 226126.48MSET (10 keys): 226086.97MSET (10 keys): 226166.02MSET (10 keys): 226442.70MSET (10 keys): 242637.78MSET (10 keys): 242637.78MSET (10 keys): 245956.19MSET (10 keys): 246593.64MSET (10 keys): 247231.09MSET (10 keys): 248406.39MSET (10 keys): 248665.34MSET (10 keys): 250580.50MSET (10 keys): 250675.94MSET (10 keys): 250616.30MSET (10 keys): 250695.81MSET (10 keys): 254214.70MSET (10 keys): 253730.16MSET (10 keys): 253730.16MSET (10 keys): 251755.33MSET (10 keys): 251755.33MSET (10 keys): 251755.33MSET (10 keys): 251755.33MSET (10 keys): 251755.33MSET (10 keys): 251420.97MSET (10 keys): 251420.97MSET (10 keys): 251420.97MSET (10 keys): 251420.97MSET (10 keys): 251420.97MSET (10 keys): 251087.53MSET (10 keys): 251087.53MSET (10 keys): 255369.27MSET (10 keys): 255369.27MSET (10 keys): 255369.27MSET (10 keys): 255369.27MSET (10 keys): 255369.27MSET (10 keys): 255114.66MSET (10 keys): 255114.66MSET (10 keys): 255114.66MSET (10 keys): 255114.66MSET (10 keys): 254860.58MSET (10 keys): 254860.58MSET (10 keys): 254606.97MSET (10 keys): 257500.00MSET (10 keys): 257500.00MSET (10 keys): 257294.48MSET (10 keys): 257294.48MSET (10 keys): 257294.48MSET (10 keys): 257294.48MSET (10 keys): 257294.48MSET (10 keys): 257294.48MSET (10 keys): 257089.33MSET (10 keys): 257089.33MSET (10 keys): 257089.33MSET (10 keys): 256884.47MSET (10 keys): 258914.78MSET (10 keys): 258914.78MSET (10 keys): 258742.52MSET (10 keys): 258742.52MSET (10 keys): 258742.52MSET (10 keys): 258742.52MSET (10 keys): 258570.48MSET (10 keys): 258570.48MSET (10 keys): 258570.48MSET (10 keys): 258570.48MSET (10 keys): 258398.67MSET (10 keys): 258398.67MSET (10 keys): 257922.38MSET (10 keys): 257973.75MSET (10 keys): 259058.75MSET (10 keys): 259073.58MSET (10 keys): 259075.86MSET (10 keys): 259127.20MSET (10 keys): 259663.64MSET (10 keys): 259663.64MSET (10 keys): 259663.64MSET (10 keys): 259663.64MSET (10 keys): 259515.67MSET (10 keys): 259515.67MSET (10 keys): 258186.80MSET (10 keys): 258186.80MSET (10 keys): 258057.91MSET (10 keys): 258057.91MSET (10 keys): 258057.91MSET (10 keys): 258057.91MSET (10 keys): 257929.14MSET (10 keys): 257929.14MSET (10 keys): 257929.14MSET (10 keys): 257929.14MSET (10 keys): 257800.48MSET (10 keys): 257800.48MSET (10 keys): 258872.61MSET (10 keys): 258872.61MSET (10 keys): 258872.61MSET (10 keys): 258872.61MSET (10 keys): 258872.61MSET (10 keys): 258872.61MSET (10 keys): 258757.77MSET (10 keys): 258757.77MSET (10 keys): 258757.77MSET (10 keys): 258757.77MSET (10 keys): 258643.00MSET (10 keys): 258643.00MSET (10 keys): 259536.55MSET (10 keys): 259536.55MSET (10 keys): 259536.55MSET (10 keys): 259536.55MSET (10 keys): 259536.55MSET (10 keys): 259536.55MSET (10 keys): 259432.91MSET (10 keys): 259432.91MSET (10 keys): 259432.91MSET (10 keys): 259329.33MSET (10 keys): 259329.33MSET (10 keys): 259225.86MSET (10 keys): 260105.34MSET (10 keys): 260105.34MSET (10 keys): 260105.34MSET (10 keys): 260010.89MSET (10 keys): 260010.89MSET (10 keys): 260010.89MSET (10 keys): 260010.89MSET (10 keys): 260010.89MSET (10 keys): 259916.50MSET (10 keys): 259916.50MSET (10 keys): 259822.20MSET (10 keys): 259822.20MSET (10 keys): 260549.45MSET (10 keys): 260549.45MSET (10 keys): 260462.72MSET (10 keys): 260462.72MSET (10 keys): 260462.72MSET (10 keys): 260376.03MSET (10 keys): 260376.03MSET (10 keys): 260376.03MSET (10 keys): 260376.03MSET (10 keys): 260289.42MSET (10 keys): 260289.42MSET (10 keys): 260202.86MSET (10 keys): 260956.03MSET (10 keys): 260956.03MSET (10 keys): 260875.84MSET (10 keys): 260875.84MSET (10 keys): 260875.84MSET (10 keys): 260795.69MSET (10 keys): 260795.69MSET (10 keys): 260795.69MSET (10 keys): 260795.69MSET (10 keys): 260715.59MSET (10 keys): 260715.59MSET (10 keys): 260635.56MSET (10 keys): 260314.02MSET (10 keys): 260316.88MSET (10 keys): 261033.11MSET (10 keys): 261036.25MSET (10 keys): 261255.72MSET (10 keys): 261181.16MSET (10 keys): 261181.16MSET (10 keys): 261181.16MSET (10 keys): 261181.16MSET (10 keys): 261106.67MSET (10 keys): 261032.22MSET (10 keys): 260957.81MSET (10 keys): 260271.78MSET (10 keys): 260271.78MSET (10 keys): 260202.45MSET (10 keys): 260202.45MSET (10 keys): 260133.14MSET (10 keys): 260133.14MSET (10 keys): 260063.89MSET (10 keys): 260202.45MSET (10 keys): 260133.14MSET (10 keys): 260204.91MSET (10 keys): 260133.14MSET (10 keys): 260063.89====== MSET (10 keys) ======
+  1000130 requests completed in 3.83 seconds
+  512 parallel clients
+  100 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: yes
+  threads: 12
+
+0.00% <= 1 milliseconds
+0.00% <= 3 milliseconds
+0.00% <= 4 milliseconds
+0.10% <= 7 milliseconds
+0.12% <= 8 milliseconds
+0.14% <= 14 milliseconds
+0.15% <= 15 milliseconds
+0.30% <= 16 milliseconds
+0.55% <= 17 milliseconds
+0.85% <= 18 milliseconds
+26.91% <= 19 milliseconds
+75.18% <= 20 milliseconds
+98.74% <= 21 milliseconds
+99.02% <= 22 milliseconds
+99.21% <= 23 milliseconds
+99.25% <= 32 milliseconds
+99.30% <= 33 milliseconds
+99.32% <= 34 milliseconds
+99.38% <= 35 milliseconds
+99.43% <= 36 milliseconds
+99.52% <= 37 milliseconds
+99.66% <= 38 milliseconds
+99.82% <= 39 milliseconds
+99.94% <= 40 milliseconds
+99.99% <= 41 milliseconds
+100.00% <= 50 milliseconds
+100.00% <= 51 milliseconds
+100.00% <= 51 milliseconds
+260926.17 requests per second
+
+
